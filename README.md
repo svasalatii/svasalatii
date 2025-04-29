@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svasalatii
 - 👀 I’m interested in many things but love reading books the most.
-- 🌱 I’m currently working as a Tech Writer at a healthcare software development company.
+- 🌱 I’m currently working as a Tech Writer at a knowledge management software development company.
 - 💞️ I’m looking to collaborate on documentation-as-code projects.
 - 📫 You can always reach me at svasalatii@gmail.com
 
