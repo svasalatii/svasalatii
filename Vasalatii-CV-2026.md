@@ -105,7 +105,6 @@
 
 *Examples:*
 
-* *[Software Requirements Specification](**https://docs.google.com/document/d/13avZT-4zEs42rdlRJTp92m6I98UhNcikinTK69fHLJc/edit#**)*
 * *[Blog on Medium](https://digis.medium.com/)*
 * *[Blog on website](https://digiscorp.com/discovery-and-digital-landscaping-everything-you-need-to-know-to-launch-your-startup-successfully/)*
 
